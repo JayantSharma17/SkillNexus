@@ -8,4 +8,4 @@ Certainly!
   - Robust profile tools for professional showcasing.
   - Interactive commenting system for user engagement.
 - **Objective**: Cultivate a vibrant community for artists to connect and grow together.
-- **Technology**: Built on the MERN stack - MongoDB, Express.js, React, Node.js - ensuring a responsive and efficient platform for users to showcase their talents, interact, and improve their skills.
+- **Technology**: Built on the MERN stack - MongoDB, Express.js, React, Node.js - ensuring a efficient platform for users to showcase their talents, interact, and improve their skills.
