@@ -1,7 +1,5 @@
 Link: https://skill-nexus.netlify.app
 
-Certainly!
-
 - **SKILL NEXUS**: An artist-focused platform empowering creativity and collaboration.
 - **Key Features**:
   - Seamless post creation and management.
